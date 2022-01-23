@@ -1,6 +1,6 @@
 {
-  "name": "chisel-heroku",
-  "description": "Deploy chisel to Heroku as a SOCKS5 proxy.",
+  "name": "tes-heroku",
+  "description": "Deploy  to Heroku as a SOCKS5 proxy.",
   "stack": "container",
   "env": {
     "CHISEL_AUTH": {
